@@ -1,9 +1,9 @@
 {
-	"time": "Thu Jan 11 2018 23:52:44 GMT-0600 (Hora estándar, América Central)",
+	"time": "Mon Jan 15 2018 21:34:48 GMT-0600 (Hora estándar, América Central)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": false,
+	"changesRequireBuild": true,
 	"projectFileHash": "8890a67137c46b07284f7eb2956cd0685478fee219125b3f4fa3528c13803f38",
-	"changesRequireBuildTime": "Thu Jan 11 2018 18:27:33 GMT-0600 (Hora estándar, América Central)"
+	"changesRequireBuildTime": "Mon Jan 15 2018 21:34:48 GMT-0600 (Hora estándar, América Central)"
 }

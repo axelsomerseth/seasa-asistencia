@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
         "merged": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
         "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
     },
@@ -8,7 +12,15 @@
         "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
     },
     {
+        "merged": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
         "merged": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo.png",
         "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\background.png",
+        "source": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
     }
 ]

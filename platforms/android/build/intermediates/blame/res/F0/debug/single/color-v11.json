@@ -4,6 +4,14 @@
         "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }

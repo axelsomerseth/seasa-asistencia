@@ -1,21 +1,47 @@
-﻿/*
-In NativeScript, the app.css file is where you place CSS rules that
-you would like to apply to your entire application. Check out
-http://docs.nativescript.org/ui/styling for a full list of the CSS
-selectors and properties you can use to style UI components.
-
-/*
-In many cases you may want to use the NativeScript core theme instead
-of writing your own CSS rules. For a full list of class names in the theme
-refer to http://docs.nativescript.org/ui/theme. 
-The imported CSS rules must precede all other types of rules.
-*/
+﻿/*  http://docs.nativescript.org/ui/styling /*
+    http://docs.nativescript.org/ui/theme. s*/
 @import 'nativescript-theme-core/css/core.dark.css';
 
-/*
-The following CSS rule changes the font size of all UI
-components that have the btn class name.
+/* 
+    ID's 
 */
-.btn {
-    font-size: 18;
+#action_bar_logo{
+    /* Cambiar porcentaje por algo mas relativo a la pantalla */
+    width: 8%;
+    height: 8%;
+    margin: 0%;
+    padding: 0%;
+}
+
+/* 
+CLASSES 
+*/
+.neo_font{
+    font-family: 'Neo Sans Std', 'Segoe UI', Tahoma, sans-serif;
+    color: white;
+    font-size: 22;
+    font-weight: 700;
+
+}
+.btn{
+    clip-path: circle(50% at 50% 50%);
+    height: 700px;
+    width: 700px;
+}
+
+.btn2 {
+    font-weight: 800;
+    font-size: 24;
+    height: 700px;
+    width: 700px;
+    background-color: #D9272E;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 4px 2px;
+    border-radius: 1200%;
+    font-family: 'Neo Sans Std', 'Segoe UI', Tahoma, sans-serif;
+    
 }

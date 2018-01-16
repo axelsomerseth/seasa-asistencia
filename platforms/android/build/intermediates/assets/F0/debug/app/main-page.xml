@@ -1,15 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--    https://docs.nativescript.org/ui/components     -->
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" class="page">
     <!--    http://docs.nativescript.org/ui/action-bar      -->
     <Page.actionBar>
-        <ActionBar title="Asistencia Atlántida" icon="" class="action-bar">
+        <ActionBar title="Asistencia Atlántida">
+            <StackLayout orientation="horizontal"
+                ios:horizontalAlignment="center"
+                android:horizontalAlignment="left">
+                <Image id="action_bar_logo" src="~/shared/images/logo_atlantida.png" class="action-image"></Image>
+                <Label text="   "  class="h3"></Label>
+                <Label text="Asistencia Atlántida"  class="neo_font"></Label>
+            </StackLayout>
         </ActionBar>
     </Page.actionBar>
-    <!--    https://docs.nativescript.org/ui/layout-containers
-            https://docs.nativescript.org/ui/theme.     -->
-    <StackLayout class="p-20">
-        <Label text="Tap the button" class="h1 text-center"/>
-        <Button text="TAP" tap="{{ onTap }}" class="btn btn-primary btn-active"/>
-        <Label text="{{ message }}" class="h2 text-center" textWrap="true"/>
+    <StackLayout>
+        <Button text="" />
+        <Button text="REPORTAR 
+SINIESTRO" tap="buttonTap" class="btn2"/>
     </StackLayout>
+
+    <!--    https://docs.nativescript.org/ui/layout-containers
+            https://docs.nativescript.org/ui/theme.     
+    <GridLayout columns="*,*" rows="2*,3*" width="auto" height="auto" backgroundColor="lightgray" >
+        <Label text="Asistencia" col="0" row="0" backgroundColor="#D9272E" class="neo_font"/>
+        <Label text="Mi Perfil" col="1" row="0" backgroundColor="#D9272E" class="neo_font"/>
+        <Label text="Historial" col="0" row="1" backgroundColor="#D9272E" class="neo_font"/>
+        <Label text="Información" col="1" row="1" backgroundColor="#D9272E" class="neo_font"/>
+    </GridLayout>
+    <TabView selectedTabTextColor="#3949AB" tabBackgroundColor="#D9272E">
+        <TabView.items>
+            <TabViewItem title="Tab 1">
+            <TabViewItem.view>
+                <Label text="Label in Tab1" />
+            </TabViewItem.view>
+            </TabViewItem>
+            <TabViewItem title="Tab 2">
+            <TabViewItem.view>
+                <Label text="Label in Tab2" />
+            </TabViewItem.view>
+            </TabViewItem>
+            <TabViewItem title="Tab 3">
+            <TabViewItem.view>
+                <Label text="Label in Tab3" />
+            </TabViewItem.view>
+            </TabViewItem>
+        </TabView.items>
+    </TabView>
+    -->
+
 </Page>
