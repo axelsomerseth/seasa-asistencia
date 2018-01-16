@@ -3,8 +3,8 @@ The app.js file is the entry point to your application.
 */
 
 require("./bundle-config");
-//require("./text/encoding/UTF_8");
 var application = require("application");
+application.cssFile = "app.css"
 
 application.start({ moduleName: "main-page" });
 

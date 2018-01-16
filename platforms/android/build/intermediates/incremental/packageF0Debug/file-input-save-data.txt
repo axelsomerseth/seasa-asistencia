@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 15 21:35:50 CST 2018
+#Mon Jan 15 23:37:00 CST 2018
 835.base=C\:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\res\\resources-F0-debug.ap_
 100.set=ASSET
 57.file=C\:\\Users\\Axel S. Cordova\\Documents\\GitHub\\seasa-asistencia\\platforms\\android\\build\\intermediates\\res\\resources-F0-debug.ap_\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png
