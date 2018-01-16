@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_068f12ca792badc0f00c6cb46fa2e6b422703e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_0a8dee9662b1185f05ae178a4cbabc6fe155d43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_a9346780552be65bccacd7b2ca4a37fa55c94a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_f86463ce606d8288a957be41e1e0b1812b5b48dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_6afd387030aed3a3e8cbc2b975c1bd06ed8c0d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_196dd7347e4192fd8fc2a1408ca7521586e952b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_d2c3938305de6d95a884041c9ca60d588baeacc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_7b49ee1dbe62e3975bfdecd8489780b988d68586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_6c17d6153151785812f2d3d9d4892944c3bc9ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_2b6617c46bf0f5140b2fadac72fe826f3639bdff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_6581bd58d240997e9b6efc674cd3be33b5b58104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_d3736e59677656081f38c526526fd35f45c07711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_d39f97e8dae7809f7b6d101c06d5c30d0a5a4425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Axel S. Cordova\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_a6a4778e63f87c07ec8000096661b393eeddbce0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\NativeScript\seasa_asistencia\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_08de2d6685c0fb7645b78a431788dc790673999f.jar" />
+    </item>
+
+</items>

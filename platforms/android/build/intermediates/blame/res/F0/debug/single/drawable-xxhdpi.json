@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\background.png",
+        "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\NativeScript\\seasa_asistencia\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]
